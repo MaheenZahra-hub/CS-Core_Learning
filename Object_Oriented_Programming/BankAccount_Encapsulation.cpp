@@ -1,5 +1,5 @@
 #include <iostream>
-#include <string> // Essential for using the string data type
+#include <string> // Essential for using the string data_type
 using namespace std;
 
 /**
