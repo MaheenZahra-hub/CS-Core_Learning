@@ -1,7 +1,7 @@
 #include<iostream>
 #include<string>
 using namespace std;
-
+ 
 // Class to store each flight's details
 class Flight {
 private:
