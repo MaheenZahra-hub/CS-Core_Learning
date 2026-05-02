@@ -1,0 +1,14 @@
+[org 0x0100]
+mov ax,0
+mov bx,3
+add ax,bx
+add bx,3
+add ax,bx
+add bx,3
+add ax,bx
+add bx,3
+add ax,bx
+add bx,3
+add ax,bx
+mov ax,0x4c00
+int 0x21
